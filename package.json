@@ -1,0 +1,14 @@
+{
+  "name": "dgb",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Takashi Sasaki",
+  "license": "CC-BY-SA-4.0",
+  "dependencies": {
+    "uuid": "^9.0.1"
+  }
+}
